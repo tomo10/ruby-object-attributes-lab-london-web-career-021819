@@ -16,8 +16,6 @@ class Dog
     @breed
   end 
   
-  
-  
-  
 end 
 
+class Person 
